@@ -22,7 +22,11 @@ Both models are trained **exclusively on normal operation data** — no fault la
 
 ## Dataset
 
-**Source:** Tennessee Eastman Process Simulation Dataset (Rieth et al., 2017) — Harvard Dataverse  
+**Source:** Tennessee Eastman Process Simulation Dataset (Rieth et al., 2017) — Harvard Dataverse
+Download from Kaggle: [Tennessee Eastman Process — CSV Format](https://www.kaggle.com/datasets/afrniomelo/tep-csv)
+- `TEP_FaultFree_Training.csv`
+- `TEP_FaultFree_Testing.csv`
+- `TEP_Faulty_Testing.csv`
 **Industry:** Chemical manufacturing / continuous process industries  
 **Process:** Simulated chemical plant with reactor, condenser, separator, stripper, and recycle stream
 
